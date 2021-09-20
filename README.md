@@ -25,7 +25,7 @@ I am Matthias Guilbert
 
 ## Examples of work
 
-<img src="https://github.com/GMLJ/GMLJ/blob/625c9208031e78853ffe25f2cb97a88c1be7f0e2/zellan.gif" width="256"/>
+<img src="https://github.com/GMLJ/GMLJ/blob/064a69f038149b3434b9d5b3d3454423c6abe7e8/zellan.gif" width="256"/>
 
 </br>
 </br>
