@@ -23,9 +23,9 @@ I am Matthias Guilbert
 </br>
 </br>
 
-## Examples of work
+## Examples of work and projects
 
-<img src="https://github.com/GMLJ/GMLJ/blob/064a69f038149b3434b9d5b3d3454423c6abe7e8/zellan.gif" width="256"/>
+[<img src="https://github.com/GMLJ/GMLJ/blob/064a69f038149b3434b9d5b3d3454423c6abe7e8/zellan.gif" width="256"/>][zellan]
 
 </br>
 </br>
@@ -34,5 +34,7 @@ I am Matthias Guilbert
 ![Profile views](https://gpvc.arturio.dev/GMLJ)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GMLJ&theme=dark&background=FFFFFF&fire=E1185D&stroke=E1185D&ring=E1185D&currStreakLabel=1B18BC&currStreakNum=1B18BC&sideNums=1B18BC&sideLabels=1B18BC&dates=1B75BC&border=E1185D)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GMLJ&theme=github&custom_title=My%20contributions%20this%20past%2031%20days)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [linkedin]: https://www.linkedin.com/in/matthias-guilbert
+[zellan]: https://zellan.art/index.html
