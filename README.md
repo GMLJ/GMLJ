@@ -1,7 +1,8 @@
 # Matthias Guilbert [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>][linkedin] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>][codepen]
 
-### Hello World 👋
+### Hi there 👋
 I am Matthias Guilbert, from Paris and I loooove coding❤️
+</br>
 </br>
 I've have not always been a FRONT END DEV👨‍💻 though...
 </br>
