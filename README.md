@@ -1,19 +1,19 @@
-# Matthias Guilbert [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>][linkedin] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>][codepen]
+# Matthias Guilbert &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>][linkedin] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>][codepen]
 
 ### Hi there 👋
 I am Matthias Guilbert, from Paris and I loooove coding❤️
 </br>
 </br>
-I've have not always been a FRONT END DEV👨‍💻 though...
+I've have not always been a FRONT END DEV👨‍💻 &nbsp;though...
 </br>
 </br>
-Before I fell in love with programming, I was 10+ years a LEADER in various fields of work such as the FRENCH NAVY COMMANDOS AND RIFLEMEN🎖️ ARCHAEOLOGY⛏️ SPORTS COACHING🏋️ VIP SECURITY🛡️ TEXTILE INDUSTRY👕 ARTS AND CULTURE🎨 ...
+Before I fell in love with programming, I was 10+ years a LEADER in various fields of work such as the FRENCH NAVY COMMANDOS AND RIFLEMEN🎖️ &nbsp; ARCHAEOLOGY⛏️  &nbsp; SPORTS COACHING🏋️  &nbsp; VIP SECURITY🛡️ &nbsp; TEXTILE INDUSTRY👕 &nbsp; ARTS AND CULTURE🎨 ...
 </br>
 </br>
 A happy/bumpy road ! However, I always felt humbled by people with the technical skills and always knew someday will come when I will have to settle.
 </br>
 </br>
-One day, I discovered programming and I now dedicate 100% of my time to help dreams come to life🦋
+One day, I discovered PROGRAMMING and I now dedicate 100% of my time to help DREAMS COME TO LIFE🦋
 </br>
 
 ## 🛠️ Languages and Tools
