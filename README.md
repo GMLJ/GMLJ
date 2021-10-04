@@ -38,7 +38,7 @@ I now dedicate 100% of my time to help DREAMS COME TO LIFE🦋 &nbsp; through CO
 ## 💯 Examples of work and projects
 
 [<img src="https://github.com/GMLJ/GMLJ/blob/064a69f038149b3434b9d5b3d3454423c6abe7e8/zellan.gif" width="256"/>][zellan]
-[<img src="https://github.com/GMLJ/GMLJ/blob/0b4ee76db30c791ddc6f3d7ed19b7651e8ff89ef/woyane.gif" width="256"/>][woyane]
+[<img src="https://github.com/GMLJ/GMLJ/blob/d86c76a18e97fbf17366685cf1ef02c85508a8bb/woyane.gif" width="256"/>][woyane]
 
 </br>
 </br>
