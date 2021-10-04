@@ -38,6 +38,7 @@ I now dedicate 100% of my time to help DREAMS COME TO LIFE🦋 &nbsp; through CO
 ## 💯 Examples of work and projects
 
 [<img src="https://github.com/GMLJ/GMLJ/blob/064a69f038149b3434b9d5b3d3454423c6abe7e8/zellan.gif" width="256"/>][zellan]
+[<img src="https://github.com/GMLJ/GMLJ/blob/b01b3967036562f597775dbd01e2a881ac17dbb3/woyane.gif" width="256"/>][woyane]
 
 </br>
 </br>
@@ -52,3 +53,4 @@ I now dedicate 100% of my time to help DREAMS COME TO LIFE🦋 &nbsp; through CO
 [linkedin]: https://www.linkedin.com/in/matthias-guilbert
 [codepen]: https://codepen.io/GMLJ
 [zellan]: https://zellan.art/index.html
+[woyane]: https://woyanedefi.netlify.app/
