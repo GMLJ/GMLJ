@@ -32,10 +32,10 @@ I now dedicate 100% of my time to help DREAMS COME TO LIFE🦋 &nbsp; through CO
 <img align="left" alt="GitHub" width="36px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GSAP" width="36px" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo-man.svg" />
-<img align="left" alt="Framer Motion" height="42px" src="https://th.bing.com/th/id/R.120f1c7c3394ea962e915d815c66dc45?rik=kugXnksgj%2foQiA&pid=ImgRaw&r=0" />
+<img align="left" alt="Framer Motion" height="42px" src="https://th.bing.com/th/id/R.120f1c7c3394ea962e915d815c66dc45?rik=kugXnksgj%2foQiA&pid=ImgRaw&r=0" /></br>
+</br>
+</br>
 
-</br>
-</br>
 
 ## 💯 Examples of work
 
