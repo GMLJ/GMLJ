@@ -1,4 +1,4 @@
-# Matthias Guilbert &nbsp; [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>][linkedin] [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111262.png' alt='codepen' height='40'>][codepen]
+# Matthias Guilbert &nbsp; [<img alt="matthiasGuilbert.com" width="36px" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" />][portfolio] [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>][linkedin] [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111262.png' alt='codepen' height='40'>][codepen]
 
 ### Hi there 👋
 I am Matthias Guilbert, a WEB DEV 👨🏻‍💻 &nbsp; from Paris.
@@ -56,3 +56,4 @@ I now dedicate 100% of my time to help DREAMS COME TO LIFE🦋 &nbsp; through CO
 [codepen]: https://codepen.io/GMLJ
 [zellan]: https://zellan.art/index.html
 [woyane]: https://woyanedefi.netlify.app/
+[portfolio]: https://matthiasguilbert.dev
