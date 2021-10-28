@@ -1,7 +1,7 @@
 # Matthias Guilbert &nbsp; [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>][linkedin] [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111262.png' alt='codepen' height='40'>][codepen]
 
 ### Hi there 👋
-I am Matthias Guilbert, a WEB DEV👨‍💻 &nbsp; from Paris.
+I am Matthias Guilbert, a WEB DEV 👨🏻‍💻 &nbsp; from Paris.
 </br>
 </br>
 It has not always been as such though...
