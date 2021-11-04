@@ -15,7 +15,7 @@ A happy/bumpy road ! However, I always felt inspired by people with the specific
 I always knew a day will come when I'll have the opportunity to be one of them.
 </br>
 </br>
-I now dedicate 100% of my time to help DREAMS COME TO LIFE🦋 &nbsp; through CODING.
+I now dedicate 100% of my time to helping DREAMS COME TO LIFE🦋 &nbsp; through CODING.
 </br>
 
 ## 🛠️ Languages and Tools
