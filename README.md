@@ -55,5 +55,5 @@ I now dedicate 100% of my time to helping IDEAS COME TO LIFE🦋 &nbsp; through 
 [linkedin]: https://www.linkedin.com/in/matthias-guilbert
 [codepen]: https://codepen.io/GMLJ
 [zellan]: https://zellan.art/index.html
-[woyane]: https://woyanedefi.netlify.app/
+[woyane]: https://woyanenft.netlify.app/#
 [portfolio]: https://matthiasguilbert.dev
