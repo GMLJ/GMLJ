@@ -7,7 +7,7 @@ I am Matthias Guilbert, a PROJECT MANAGER from Paris.
 Before I fell in love with programming, I was 10+ years a LEADER in various fields of work such as the FRENCH NAVY COMMANDOS AND RIFLEMEN🎖️ &nbsp; ARCHAEOLOGY⛏️  &nbsp; SPORTS COACHING🏋️  &nbsp; TEXTILE INDUSTRY👕 &nbsp; ARTS AND CULTURE🎨 ...
 </br>
 </br>
-I recently honed coding skills as a self-taught developer 👨🏻‍💻 &nbsp;. With the ultimate aim of transitioning to the tech industry as an expert Project Manager, I'm now leveraging years of versatile projects lead experience, as well as knowledge as a front-end developer.
+I recently honed coding skills as a self-taught developer 👨🏻‍💻 &nbsp;. I'm now leveraging years of projects lead experience, as well as knowledge as a front-end developer with the ultimate aim of transitioning to the tech industry as an expert Project Manager.
 </br>
 </br>
 I now dedicate 100% of my time to helping IDEAS COME TO LIFE🦋 &nbsp;
