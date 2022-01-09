@@ -1,10 +1,7 @@
 # Matthias Guilbert &nbsp; [<img alt="matthiasGuilbert.com" width="36px" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" />][portfolio] [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>][linkedin] [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111262.png' alt='codepen' height='40'>][codepen]
 
 ### Hi there 👋
-I am Matthias Guilbert, a WEB DEV 👨🏻‍💻 &nbsp; from Paris.
-</br>
-</br>
-It has not always been as such though...
+I am Matthias Guilbert, a PROJECT MANAGER from Paris.
 </br>
 </br>
 Before I fell in love with programming, I was 10+ years a LEADER in various fields of work such as the FRENCH NAVY COMMANDOS AND RIFLEMEN🎖️ &nbsp; ARCHAEOLOGY⛏️  &nbsp; SPORTS COACHING🏋️  &nbsp; TEXTILE INDUSTRY👕 &nbsp; ARTS AND CULTURE🎨 ...
