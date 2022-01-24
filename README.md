@@ -10,7 +10,7 @@ Before I fell in love with programming, I was 10+ years a LEADER in various fiel
 I recently honed coding skills as a self-taught developer 👨🏻‍💻 &nbsp;. I am now leveraging years of project lead experience, as well as knowledge as a front-end developer with the ultimate aim of transitioning to the tech industry as an expert Project Manager.
 </br>
 </br>
-I now dedicate 100% of my time to helping IDEAS COME TO LIFE🦋 &nbsp;
+I dedicate 100% of my time to helping IDEAS COME TO LIFE🦋 &nbsp;
 </br>
 
 ## 🛠️ Languages and Tools
